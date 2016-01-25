@@ -1,0 +1,17 @@
+<package>
+  <description brief="rwrc13_msgs">
+
+     rwrc11_msgs
+
+  </description>
+  <author>amsl</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/rwrc11_msgs</url>
+  <depend package="std_msgs"/>
+  <depend package="nav_msgs"/>
+  <depend package="geometry_msgs"/>
+
+</package>
+
+

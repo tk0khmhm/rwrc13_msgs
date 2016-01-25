@@ -1,0 +1,4 @@
+---
+geometry_msgs/PoseStamped[] goals
+int32 id
+bool turn
